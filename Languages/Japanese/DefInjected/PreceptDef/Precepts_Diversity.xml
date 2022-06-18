@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <Diversity_Abhorrent.label>甚だしい偏見</Diversity_Abhorrent.label>
+  <Diversity_Abhorrent.description>他民族の者が世界をダメにしているのだ。共同生活など決してさせてはならない。</Diversity_Abhorrent.description>
+  <Diversity_Abhorrent.comps.3.description>全ての入植者の肌の色が同じである</Diversity_Abhorrent.comps.3.description>
+
+  <Diversity_Horrible.label>それなりの偏見</Diversity_Horrible.label>
+  <Diversity_Horrible.description>他民族は害を成す。共同生活をさせるのは悪しきことだ。</Diversity_Horrible.description>
+
+  <Diversity_Disapproved.label>隠微な偏見</Diversity_Disapproved.label>
+  <Diversity_Disapproved.description>他民族の人たちは、私たちとは似ても似つかない。共同生活をさせるのはよくない。</Diversity_Disapproved.description>
+
+  <Diversity_Standard.label>中立的立場</Diversity_Standard.label>
+  <Diversity_Standard.description>他民族に対して肯定も否定もしない。</Diversity_Standard.description>
+
+  <Diversity_Approved.label>ありがたい存在</Diversity_Approved.label>
+  <Diversity_Approved.description>他民族には歩み寄る価値がある。異なる視点を持つ他者と共に生きることは良いことだ。</Diversity_Approved.description>
+
+  <Diversity_Respected.label>素晴らしい存在</Diversity_Respected.label>
+  <Diversity_Respected.description>他民族は独自の知識を有している。異なる視点を持つ他者と共に生きるのは素晴らしいことだ。</Diversity_Respected.description>
+
+  <Diversity_Exalted.label>高みへの友</Diversity_Exalted.label>
+  <Diversity_Exalted.description>違いを乗り越えていくことこそ、道徳の極みです。見た目が違う他者と共に生きるのはとても道徳的なことだ。</Diversity_Exalted.description>
+
+
+</LanguageData>

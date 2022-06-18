@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abhorrent -->
+
+  <Diversity_Abhorrent.stages.0.label>多様な肌色</Diversity_Abhorrent.stages.0.label>
+  <Diversity_Abhorrent.stages.0.description>我らが種族はとても純粋で偉大なのに、周りには悪しき者がいる。忌まわしい。</Diversity_Abhorrent.stages.0.description>
+  <Diversity_Abhorrent.stages.1.label>多様な肌色</Diversity_Abhorrent.stages.1.label>
+  <Diversity_Abhorrent.stages.1.description>我らが種族はとても純粋で偉大なのに、周りには悪しき者が大勢いる。忌まわしい。</Diversity_Abhorrent.stages.1.description>
+  <Diversity_Abhorrent.stages.2.label>多様な肌色</Diversity_Abhorrent.stages.2.label>
+  <Diversity_Abhorrent.stages.2.description>我らが種族はとても純粋で偉大なのに、周りのほとんどは悪しき者だ。忌まわしい。</Diversity_Abhorrent.stages.2.description>
+
+  <Diversity_Abhorrent_Uniform.stages.0.label>統一的な肌色</Diversity_Abhorrent_Uniform.stages.0.label>
+  <Diversity_Abhorrent_Uniform.stages.0.description>我々のコミュニティには、悪しき者はいない。あるべき姿だ。</Diversity_Abhorrent_Uniform.stages.0.description>
+
+  <Diversity_Abhorrent_Social.stages.0.label>異なる肌色</Diversity_Abhorrent_Social.stages.0.label>
+  <Diversity_Abhorrent_SocialGood.stages.0.label>同じ肌色</Diversity_Abhorrent_SocialGood.stages.0.label>
+
+
+  <!-- Horrible -->
+
+  <Diversity_Horrible.stages.0.label>多様な肌色</Diversity_Horrible.stages.0.label>
+  <Diversity_Horrible.stages.0.description>我らが種族はとても素晴らしいのに、周りの中には違う種族もいる。恐ろしい。</Diversity_Horrible.stages.0.description>
+  <Diversity_Horrible.stages.1.label>多様な肌色</Diversity_Horrible.stages.1.label>
+  <Diversity_Horrible.stages.1.description>我らが種族はとても素晴らしいのに、周りの多くは違う種族だ。恐ろしい。</Diversity_Horrible.stages.1.description>
+  <Diversity_Horrible.stages.2.label>多様な肌色</Diversity_Horrible.stages.2.label>
+  <Diversity_Horrible.stages.2.description>我らが種族はとても素晴らしいのに、周りのほとんどは違う種族だ。恐ろしい。</Diversity_Horrible.stages.2.description>
+
+  <Diversity_Horrible_Uniform.stages.0.label>統一的な肌色</Diversity_Horrible_Uniform.stages.0.label>
+  <Diversity_Horrible_Uniform.stages.0.description>我々のコミュニティには、穢れた者はいない。あるべき姿だ。</Diversity_Horrible_Uniform.stages.0.description>
+
+  <Diversity_Horrible_Social.stages.0.label>異なる肌色</Diversity_Horrible_Social.stages.0.label>
+  <Diversity_Horrible_SocialGood.stages.0.label>異なる肌色</Diversity_Horrible_SocialGood.stages.0.label>
+
+
+  <!-- Disapproved -->
+
+  <Diversity_Disapproved.stages.0.label>多様な肌色</Diversity_Disapproved.stages.0.label>
+  <Diversity_Disapproved.stages.0.description>我らが種族こそ最高なのは一目瞭然なのに、私の周りにはそれがわからないほど愚かな人がいる。奴らの愚かさに付き合わされるのなんてゴメンだ。</Diversity_Disapproved.stages.0.description>
+  <Diversity_Disapproved.stages.1.label>多様な肌色</Diversity_Disapproved.stages.1.label>
+  <Diversity_Disapproved.stages.1.description>我らが種族こそ最高なのは一目瞭然なのに、私の周りにはそれがわからないほど愚かな人が大勢いる。奴らの愚かさに付き合わされるのなんてゴメンだ。</Diversity_Disapproved.stages.1.description>
+  <Diversity_Disapproved.stages.2.label>多様な肌色</Diversity_Disapproved.stages.2.label>
+  <Diversity_Disapproved.stages.2.description>我らが種族こそ最高なのは一目瞭然なのに、周りはそれがわからないほど愚かな人で溢れかえっている。奴らの愚かさに付き合わされるのなんてゴメンだ。</Diversity_Disapproved.stages.2.description>
+
+  <Diversity_Disapproved_Uniform.stages.0.label>統一的な肌色</Diversity_Disapproved_Uniform.stages.0.label>
+  <Diversity_Disapproved_Uniform.stages.0.description>我々のコミュニティには、あいつらはいない。あるべき姿だ。</Diversity_Disapproved_Uniform.stages.0.description>
+
+  <Diversity_Disapproved_Social.stages.0.label>異なる肌色</Diversity_Disapproved_Social.stages.0.label>
+  <Diversity_Disapproved_SocialGood.stages.0.label>異なる肌色</Diversity_Disapproved_SocialGood.stages.0.label>
+
+
+  <!-- Approved -->
+
+  <Diversity_Approved.stages.0.label>多様な肌色</Diversity_Approved.stages.0.label>
+  <Diversity_Approved.stages.0.description>ここには異なる肌色を持つ者がいる。コミュニティが健全な証拠だ。</Diversity_Approved.stages.0.description>
+  <Diversity_Approved.stages.1.label>多様な肌色</Diversity_Approved.stages.1.label>
+  <Diversity_Approved.stages.1.description>ここには異なる肌色を持つ者が大勢いる。コミュニティが健全な証拠だ。</Diversity_Approved.stages.1.description>
+  <Diversity_Approved.stages.2.label>多様な肌色</Diversity_Approved.stages.2.label>
+  <Diversity_Approved.stages.2.description>ここでは、ほぼ全員が異なる肌色をしている。コミュニティが健全な証拠だ。</Diversity_Approved.stages.2.description>
+
+  <Diversity_Approved_Uniform.stages.0.label>統一的な肌色</Diversity_Approved_Uniform.stages.0.label>
+  <Diversity_Approved_Uniform.stages.0.description>我々のコミュニティは多様性に欠けている。</Diversity_Approved_Uniform.stages.0.description>
+
+  <Diversity_Approved_Social.stages.0.label>多様な肌色</Diversity_Approved_Social.stages.0.label>
+
+
+  <!-- Respected -->
+
+  <Diversity_Respected.stages.0.label>多様な肌色</Diversity_Respected.stages.0.label>
+  <Diversity_Respected.stages.0.description>ここには異なる肌色を持つ者がいる。コミュニティが健全である重要な証拠だ。</Diversity_Respected.stages.0.description>
+  <Diversity_Respected.stages.1.label>多様な肌色</Diversity_Respected.stages.1.label>
+  <Diversity_Respected.stages.1.description>ここには異なる肌色を持つ者が大勢いる。コミュニティが健全である重要な証拠だ。</Diversity_Respected.stages.1.description>
+  <Diversity_Respected.stages.2.label>多様な肌色</Diversity_Respected.stages.2.label>
+  <Diversity_Respected.stages.2.description>ここでは、ほぼ全員が異なる肌色をしている。コミュニティが健全である重要な証拠だ。</Diversity_Respected.stages.2.description>
+
+  <Diversity_Respected_Uniform.stages.0.label>統一的な肌色</Diversity_Respected_Uniform.stages.0.label>
+  <Diversity_Respected_Uniform.stages.0.description>我々のコミュニティは今、多様性に欠けている。この状況を変えなければならない。</Diversity_Respected_Uniform.stages.0.description>
+
+  <Diversity_Respected_Social.stages.0.label>多様な肌色</Diversity_Respected_Social.stages.0.label>
+
+
+  <!-- Exalted -->
+
+  <Diversity_Exalted.stages.0.label>多様な肌色</Diversity_Exalted.stages.0.label>
+  <Diversity_Exalted.stages.0.description>ここには異なる肌色を持つ者がいる。このようなコミュニティの一員であることをとても誇りに思う。</Diversity_Exalted.stages.0.description>
+  <Diversity_Exalted.stages.1.label>多様な肌色</Diversity_Exalted.stages.1.label>
+  <Diversity_Exalted.stages.1.description>ここには異なる肌色を持つ者が大勢いる。このようなコミュニティの一員であることをとても誇りに思う。</Diversity_Exalted.stages.1.description>
+  <Diversity_Exalted.stages.2.label>多様な肌色</Diversity_Exalted.stages.2.label>
+  <Diversity_Exalted.stages.2.description>ここでは、ほぼ全員が異なる肌色をしている。このようなコミュニティの一員であることをとても誇りに思う。</Diversity_Exalted.stages.2.description>
+
+  <Diversity_Exalted_Uniform.stages.0.label>統一的な肌色</Diversity_Exalted_Uniform.stages.0.label>
+  <Diversity_Exalted_Uniform.stages.0.description>我々のコミュニティは今、多様性に欠けている。この状況を変えなければならない!</Diversity_Exalted_Uniform.stages.0.description>
+
+  <Diversity_Exalted_Social.stages.0.label>多様な肌色</Diversity_Exalted_Social.stages.0.label>
+
+
+</LanguageData>
